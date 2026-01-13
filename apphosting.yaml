@@ -1,0 +1,6 @@
+runConfig:
+  maxInstances: 1
+build:
+  run: npm run build
+serve:
+  run: npm run start
